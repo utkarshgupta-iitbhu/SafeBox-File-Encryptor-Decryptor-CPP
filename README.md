@@ -4,7 +4,8 @@
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+![CLI](https://img.shields.io/badge/Interface-CLI-critical?style=for-the-badge)
+![Encryption](https://img.shields.io/badge/Feature-File%20Encryption-purple?style=for-the-badge)
 
 **A lightweight command-line file encryption tool built with modern C++**
 
@@ -230,3 +231,4 @@ SafeBox/
 </div>
 
 ---
+
