@@ -4,7 +4,6 @@
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 **A lightweight command-line file encryption tool built with modern C++**
@@ -217,55 +216,17 @@ SafeBox/
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. 🍴 Fork the repository
-2. 🌿 Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. 💾 Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. 📤 Push to the branch (`git push origin feature/AmazingFeature`)
-5. 🔃 Open a Pull Request
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👤 Author
 
 <div align="center">
 
-**Your Name**
+**Utkarsh Gupta**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][(https://github.com/utkarshgupta-iitbhu)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/utkarsh-gupta-iitbhu/)]
 
 *A passionate developer learning C++ and building cool projects!*
 
 </div>
 
 ---
-
-## 🙏 Acknowledgments
-
-- 📚 [C++ Reference](https://en.cppreference.com/) - For comprehensive documentation
-- 💡 [GeeksforGeeks](https://www.geeksforgeeks.org/) - For algorithm explanations
-- 🎓 Stack Overflow Community - For troubleshooting help
-- 📖 "The C++ Programming Language" by Bjarne Stroustrup
-
----
-
-<div align="center">
-
-⭐ **If you found this project helpful, please give it a star!** ⭐
-
-Made with ❤️ and lots of ☕
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.SafeBox)
-
-</div>
